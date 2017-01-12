@@ -1,2 +1,2 @@
-# 1.st-Project
-# Hello World
+Hello I am Gary
+ A High school Student
