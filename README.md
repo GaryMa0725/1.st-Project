@@ -1,2 +1,2 @@
-Hello I am Gary /n
+Hello I am Gary \n
  A High school Student
